@@ -27,14 +27,14 @@ To achieve these objectives, the following tools and technologies will be used:
 
 * Data Visualization Tools: To create insightful and interactive visualizations.
 
-** Matplotlib and Seaborn: For static plots and charts.
+  * Matplotlib and Seaborn: For static plots and charts.
 
 * Machine Learning Models:
 
-** Linear Regression: To establish a baseline model for predicting flight delays.
-** Random Forest: For capturing non-linear relationships and improving prediction accuracy.
-** Gradient Boosting Machines: For enhanced predictive performance.
-** Classification Algorithms: Such as Random Forest Classifier, to predict whether a flight will be delayed by more than 15 minutes.
+  * Linear Regression: To establish a baseline model for predicting flight delays.
+  * Random Forest: For capturing non-linear relationships and improving prediction accuracy.
+  * Gradient Boosting Machines: For enhanced predictive performance.
+  * Classification Algorithms: Such as Random Forest Classifier, to predict whether a flight will be delayed by more than 15 minutes.
 
 Data Sources: The project utilizes historical flight delay data obtained from reliable aviation databases or provided datasets (https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp).
 
