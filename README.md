@@ -19,11 +19,11 @@ To achieve these objectives, the following tools and technologies will be used:
 
 * Python: The primary programming language for data analysis and machine learning tasks.
 
-** Pandas: For data manipulation and analysis.
-** NumPy: For numerical computations.
-** Matplotlib and Seaborn: For data visualization.
-** Scikit-Learn: For building and evaluating machine learning models.
-** Jupyter Notebook: For interactive data exploration and visualization.
+  * Pandas: For data manipulation and analysis.
+  * NumPy: For numerical computations.
+  * Matplotlib and Seaborn: For data visualization.
+  * Scikit-Learn: For building and evaluating machine learning models.
+  * Jupyter Notebook: For interactive data exploration and visualization.
 
 * Data Visualization Tools: To create insightful and interactive visualizations.
 
